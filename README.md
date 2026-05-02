@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/celalce.png" width="150" style="border-radius: 50%;">
+</p>
+
 # Hi there, I'm Celal Albayrak 👋
 
 As an **IoT Developer & Full-Stack Programmer**, I specialize in bridging the gap between the physical world and digital systems through innovative automation.
