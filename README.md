@@ -1,8 +1,14 @@
-<p align="center">
-  <img src="https://github.com/celalce.png" width="150" style="border-radius: 50%;">
-</p>
-
-# Hi there, I'm Celal Albayrak 👋
+<table>
+  <tr>
+    <td width="20%">
+      <img src="https://github.com/celalce.png" width="150" style="border-radius: 50%;">
+    </td>
+    <td width="80%">
+      <h1>Hi there, I'm Celal Albayrak 👋</h1>
+      <p>As an <b>IoT Developer & Full-Stack Programmer</b>, I specialize in bridging the gap between the physical world and digital systems through innovative automation.</p>
+    </td>
+  </tr>
+</table>
 
 As an **IoT Developer & Full-Stack Programmer**, I specialize in bridging the gap between the physical world and digital systems through innovative automation.
 
