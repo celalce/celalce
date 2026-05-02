@@ -10,7 +10,6 @@
   </tr>
 </table>
 
-As an **IoT Developer & Full-Stack Programmer**, I specialize in bridging the gap between the physical world and digital systems through innovative automation.
 
 ## 🛠️ Skills & Tools
 - **Languages:** PHP, JavaScript, Kotlin, HTML, CSS, C++
