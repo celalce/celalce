@@ -34,4 +34,4 @@
 
 ---
 ### 📫 Connect with me:
-[LinkedIn](https://linkedin.com/in/al-albayrak-b73554329) | [Website](https://cabimox.com)
+[LinkedIn]((https://www.linkedin.com/in/celal-albayrak-b73554329/)) | [Website](https://cabimox.com)
